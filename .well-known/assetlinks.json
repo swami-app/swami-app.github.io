@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ro.codai.swami",
+      "sha256_cert_fingerprints": [
+        "6F:AC:D5:98:CF:29:C4:BF:68:BF:FA:AD:50:CC:C1:86:0C:E6:D3:DF:0B:0F:0C:51:2B:94:1C:B9:4B:42:B0:FE",
+        "40:63:67:FA:82:B6:48:50:C6:6F:F4:E8:60:82:3D:B7:74:6C:93:61:D0:61:E7:BE:B8:D3:C1:C4:3E:8E:95:96"
+      ]
+    }
+  }
+]
